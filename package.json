@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week-2",
+  "version": "1.0.0",
+  "description": "First Github repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wowpro/MTM6330-Week-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wowpro/MTM6330-Week-2/issues"
+  },
+  "homepage": "https://github.com/Wowpro/MTM6330-Week-2#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  }
+}
