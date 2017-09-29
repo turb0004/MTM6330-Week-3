@@ -1,4 +1,4 @@
 # MTM6330-Week-2
 First Github repository
 
-Michael Collins Section 060
+Chelsea Turbide Section 030
